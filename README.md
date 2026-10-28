@@ -86,40 +86,39 @@ Suggestions and improvements are welcome. Feel free to fork this repository and 
 © Ankit Pandey | MyProfile – Personal Portfolio Website
 
 
-# 📱Home 
-===========
+# 📱Home
 
 <img width="944" height="479" alt="Screenshot 2026-10-28 132045" src="https://github.com/user-attachments/assets/633188c5-dceb-460f-8330-2f8f381c1a30" />
 
 # 📱 About Us
-====================
+
 
 <img width="945" height="473" alt="Screenshot 2026-10-28 132059" src="https://github.com/user-attachments/assets/8d4700d9-0b89-41a6-be3f-f40b4c32f097" />
 
 # 📱 My Technical Skills
-===========================
+
 
 <img width="945" height="472" alt="Screenshot 2026-10-28 132113" src="https://github.com/user-attachments/assets/b5db958e-6e23-4bbb-bd32-23b25d2cfb61" />
 
 
 # 📱My Project
-==========================
+
 
 <img width="944" height="476" alt="Screenshot 2026-10-28 132128" src="https://github.com/user-attachments/assets/29980821-0ed9-474a-980f-4fbef2c2ecd5" />
 
 
 # 📱 Education & Learning
-===============================
+
 
 <img width="946" height="470" alt="Screenshot 2026-10-28 132153" src="https://github.com/user-attachments/assets/49a69327-47c5-4858-84ab-4ea5cc05e7ab" />
 
 # 📱 Contact 
-================
+
 
 <img width="947" height="473" alt="Screenshot 2026-10-28 132206" src="https://github.com/user-attachments/assets/828289a3-4f5e-4b99-b48b-543f47cd5037" />
 
 # 📱 Footer
-===================
+
 
 <img width="947" height="473" alt="Screenshot 2026-10-28 132224" src="https://github.com/user-attachments/assets/fdbbcca5-a717-40ec-b383-d1bdd5fbde9c" />
 
